@@ -39,5 +39,3 @@ kubectl apply -f k8s/base/
 ## Compliance
 RBI localisation, PCI DSS v4.0, NPCI UPI 300ms, IT Act 43A mapped in docs/compliance-mapping.md
 
-## Author
-ZeTheta Internship - DevOps & Cloud Engineer Track
