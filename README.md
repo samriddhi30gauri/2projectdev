@@ -3,7 +3,7 @@
 ## 🌐 LIVE WEBSITE LINKS (Permanent - Never Expires)
 
 ### Main Website:
-**https://samriddhi30gauri.github.io/projectdev/**
+** https://samriddhi30gauri.github.io/2projectdev/ 
 
 ### Backup Website:
 **https://samriddhi30gauri.github.io/project2devo/**
