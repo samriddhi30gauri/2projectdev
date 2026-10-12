@@ -5,8 +5,7 @@
 ### Main Website:
 ** https://samriddhi30gauri.github.io/2projectdev/ 
 
-### Backup Website:
-**https://samriddhi30gauri.github.io/project2devo/**
+
 
 ### GitHub Repo:
 **https://github.com/samriddhi30gauri/projectdev**
